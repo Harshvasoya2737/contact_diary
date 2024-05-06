@@ -23,6 +23,6 @@ This is the second ui in dark theme mode
 ![Contact_diary_ui_3](https://github.com/Harshvasoya2737/contact_diary/assets/148517061/67ca4ef4-8f73-42dd-a07f-a11f23f42386)
 
 Here I am also sharing you the screen recording of contact diary application link so kindly click on link to see the video
-https://drive.google.com/file/d/1oGXpHXqwdcKzAl2qLeDmmZhl-JOVAIz6/view
+https://drive.google.com/file/d/1oGXpHXqwdcKzAl2qLeDmmZhl-JOVAIz6/view?usp=sharing
 
 Thank you keep supporting.
